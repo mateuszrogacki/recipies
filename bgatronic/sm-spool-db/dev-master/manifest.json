@@ -1,9 +1,0 @@
-{
-  "aliases": ["sm-spool-db", "smspooldb"],
-  "bundles": {
-    "BGATronic\\SMSpoolDBBundle": ["all"]
-  },
-  "copy-from-recipe": {
-    "config/": "%CONFIG_DIR%/"
-  }
-}
